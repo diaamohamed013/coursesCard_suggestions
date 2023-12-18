@@ -14,8 +14,8 @@ a {
     position: relative;
     overflow: hidden;
     background: url(../images/books.jpg);
-    background-position: top left;
-    /* background-size: cover; */
+    background-position: top center;
+    background-size: cover;
 }
 
 .courses::after {
